@@ -1,1 +1,45 @@
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Model Files (large files)
+*.caffemodel
+*.weights
+*.pb
+*.onnx
+
+# Media Files
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.jpg
+*.jpeg
+*.png
+*.gif
+
+# Output
+output/
+results/
+logs/
+*.log
+
+# OS
 .DS_Store
+Thumbs.db

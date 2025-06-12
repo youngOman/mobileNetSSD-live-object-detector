@@ -1,14 +1,13 @@
 
 '''
-# 使用方式：
+使用方式：
 python mobileNetSSD-live-object-detector.py \
     --prototxt MobileNetSSD_deploy.prototxt.txt \
-    --model MobileNetSSD_deploy.caffemodel
-
+    --model MobileNetSSD_deploy.caffemodel \
+	--input video.mp4
 其他可用參數：
 	--input video.mp4
     
-
 --prototxt MobileNetSSD_deploy.prototxt.txt：指定網路架構檔案，定義神經網路的層次結構、連接方式、輸入輸出格式等，是 Caffe 框架的網路定義格式
 --model MobileNetSSD_deploy.caffemodel：指定預訓練模型權重檔案，.caffemodel 包含已經訓練好的神經網路權重參數
 '''
