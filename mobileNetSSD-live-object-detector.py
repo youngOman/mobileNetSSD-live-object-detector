@@ -4,7 +4,7 @@
 python mobileNetSSD-live-object-detector.py \
     --prototxt MobileNetSSD_deploy.prototxt.txt \
     --model MobileNetSSD_deploy.caffemodel \
-	--input video.mp4
+    
 其他可用參數：
 	--input video.mp4
     
