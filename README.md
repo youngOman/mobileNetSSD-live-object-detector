@@ -16,6 +16,4 @@
 
 # Demo
 
-![demo](https://github.com/youngOman/mobileNetSSD-live-object-detector/blob/main/video_detect_result.png)   
-
-
+![demo](https://github.com/youngOman/mobileNetSSD-live-object-detector/blob/main/images/video_detect_result.png)   
