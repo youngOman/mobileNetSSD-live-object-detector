@@ -24,15 +24,6 @@ env/
 *.pb
 *.onnx
 
-# Media Files
-*.mp4
-*.avi
-*.mov
-*.mkv
-*.jpg
-*.jpeg
-*.png
-*.gif
 
 # Output
 output/
